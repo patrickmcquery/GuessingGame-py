@@ -11,9 +11,6 @@ def intro(max):
     print('you get it. For each guess, I will tell you')
     print('whether the right answer is higher or lower')
     print('than your guess.\n')
-    """
-    test
-    """
 
 #play contains the main game loops
 #it returns the number of guesses for one round of play to be used
